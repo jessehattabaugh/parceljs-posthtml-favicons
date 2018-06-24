@@ -1,5 +1,5 @@
 # parceljs-posthtml-favicons
-testing a bug with the [posthtml-favicons plugin](https://www.npmjs.com/package/posthtml-favicons) and [parceljs](https://parceljs.org/)
+testing a bug with the [posthtml-favicons plugin](https://github.com/mohsen1/posthtml-favicons) and [parceljs](https://parceljs.org/)
 
 # instructions
 

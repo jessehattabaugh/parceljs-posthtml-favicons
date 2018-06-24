@@ -1,5 +1,10 @@
 {
     "plugins": {
-        "posthtml-favicons": {}
+        "posthtml-favicons": {
+            "configuration": {
+                "path": "./"
+            },
+            "outDir": "./dist"
+        }
     }
 }
