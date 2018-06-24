@@ -19,5 +19,8 @@
   "homepage": "https://github.com/jessehattabaugh/parceljs-posthtml-favicons#readme",
   "dependencies": {
     "parcel": "^1.9.2"
+  },
+  "devDependencies": {
+    "posthtml-favicons": "^1.0.0"
   }
 }
